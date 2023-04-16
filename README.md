@@ -9,6 +9,7 @@ is calculated by dividing the current average by the previous average (output â€
 first increase value).
 
 Here are example calls to the timing functions:
+
       functionRuntimes fRT;
       int sizes1[] = { 2000, 4000, 8000, 16000, 32000, 64000, 128000, 256000};
       
